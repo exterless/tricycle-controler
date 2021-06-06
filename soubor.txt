@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Text z prvni vetve
+=======
+Text ze treti vetve
+>>>>>>> TretiVetev
